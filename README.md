@@ -1,7 +1,6 @@
-#imSAFE - An Emergency Safety App
+**imSAFE - An Emergency Safety App**
 
 **Project Overview:**
-
 "imSAFE" is an innovative safety app designed to keep users and their communities safe and informed. Developed as a project submission to Goa University for the BCA degree, this app focuses on providing instant assistance and fostering collaborative vigilance to create a secure environment for all residents.
 
 **Key Features:**
